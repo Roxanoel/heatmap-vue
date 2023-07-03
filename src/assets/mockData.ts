@@ -1,4 +1,4 @@
-export const mockData = [
+const mockData = [
     { 
         date: "2023-03-03 07:09:10",
     },
@@ -46,3 +46,4 @@ export const mockData = [
     },
 
 ]
+export default mockData
