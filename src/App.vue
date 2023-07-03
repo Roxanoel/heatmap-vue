@@ -2,7 +2,6 @@
   <header>
     <h1>Vue Heatmap Component</h1>
   </header>
-
   <main>
     <Heatmap />
   </main>
